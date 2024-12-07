@@ -1,0 +1,4 @@
+com\example\myapp\controller\TodoController.class
+com\example\myapp\MyappApplication.class
+com\example\myapp\model\TodoItem.class
+com\example\myapp\controller\HelloController.class
